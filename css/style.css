@@ -12,7 +12,7 @@ body{
 }
 .green {
 	background-color: green;
-	border: 4px solid gray;
+	
 	padding: 2%;
 }
 .navbar{
@@ -37,14 +37,15 @@ body{
 
  .whitebox {
 	background-color: white;
-	border: 4px solid gray;S
+	
 	padding-bottom: 0;
 	padding-right: 50px;
 	padding-left: 160px;
 	padding-top: 80px;
 	width: 643px;
 	height: 479px;
-	margin-right:  100px;
+	margin: 100px;
+	margin-left: -30px;
 	
 }
 
@@ -55,4 +56,13 @@ body{
 	height: 300px;
 
 
+ }
+
+ .text{
+ 	font-size: 35px;
+ 	color: orange;
+ 	text-align: center;
+ 	padding: 100px;
+ 	padding-left:  0;
+ 	transform: rotate(45deg);
  }
